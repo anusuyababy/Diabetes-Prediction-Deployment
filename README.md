@@ -1,1 +1,1 @@
-# Diabetes-Prediction-Deployment
+# Diabetes-Prediction-HEROKU Deployment 
